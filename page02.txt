@@ -1,0 +1,22 @@
+Page 02/??
+-------------------------------------------------------------------------------
+The shell is your interface to the world. The shell is both an interactive
+environment and a programming language, though we will use it for its
+interactive environment. The shell you are in now is called ksh(1). Another
+popular shell is bash(1).
+
+The shell is unfortunately a lot more terse than the GUI interfaces you may be
+used to. Commands mistyped will often give you back at best a short error
+message, at worst run the wrong command.
+
+You know you are in the shell if you see an optional status message followed by
+a shell character, most commonly $ (but sometimes # or even >). I have provided
+you a simple status message, the current working directory of the shell. So you
+should see a prompt that looks something like this:
+
+/home/callab5 $
+
+You will see your RCSID in place of callab5 in the line above.
+This is your HOME directory. This space is yours to use how you see fit.
+
+Press n for next page; p for previous page; q to quit

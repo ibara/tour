@@ -1,0 +1,22 @@
+Page 15/??
+-------------------------------------------------------------------------------
+If tmux is running and you are finished working, you can press ^B d to detach
+tmux from the terminal (you can also just close the terminal window, that will
+also cause tmux to detach). Tmux will sit patiently and wait for you to return
+and when you do, tmux will give you everything back just as you left it.
+
+If you have a detached tmux session, the command to get it back is "tmux a".
+
+Try it: press ^B d to detatch then "tmux a" and you should return right back
+here.
+
+
+
+
+
+
+
+
+
+
+Press n for next page; p for previous page; q to quit

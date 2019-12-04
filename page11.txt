@@ -1,0 +1,22 @@
+Page 11/??
+-------------------------------------------------------------------------------
+Here are some handy utilities to manipulate files and directories.
+
+The mv(1) command renames a file or directory. It is used like so:
+"mv oldname newname"
+
+The cp(1) command copies a file:
+"cp original copy"
+
+The rm(1) command deletes a file:
+"rm file"
+
+The rm command can also be used on directories. When deleting a directory, we
+have to add the -r flag as an argument:
+"rm -r directory"
+Be careful! Deleting a directory will also delete all files and directories
+inside that directory.
+
+Most utilities have flags that change behaviors. Experiment! (try "ls -l")
+
+Press n for next page; p for previous page; q to quit

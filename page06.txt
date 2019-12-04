@@ -1,0 +1,22 @@
+Page 06/??
+-------------------------------------------------------------------------------
+But what do we do if the file is longer than our terminal? We can use the
+less(1) utility for that! The less utility will read in the file you give it
+as an argument, and you can scroll up and down using the up and down keys on
+your keyboard. Just like this tour program, you quit less with the q key.
+
+Try it: run "less /home/brian/long-hello.txt"
+
+
+
+
+
+
+
+
+
+
+
+
+
+Press n for next page; p for previous page; q to quit

@@ -1,0 +1,22 @@
+Page 01/??
+-------------------------------------------------------------------------------
+Welcome to ITWS 4370, Information Systems Security.
+
+Information Security is an extremely broad field, and there are lots of
+different avenues for you to explore. Regardless of where you ultimately end
+up, Unix skills are going to be essential. This quick tour is designed to walk
+you through a basic Unix environment and get you familiar with the command
+line, or shell in Unix speak.
+
+In this course, the Unix we will use is called OpenBSD. You may have heard of
+Linux. Unix skills are transferable between different Unices. I use OpenBSD
+because it is known worldwide as the world's most secure operating system, and
+because I am one of the developers.
+
+In this tour, I will encase commands in "quotes" but remove the quotes when you
+try the commands yourselves.
+
+OK, let's start by pressing n to go to the next page.
+
+
+Press n for next page; p for previous page; q to quit

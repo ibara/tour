@@ -1,0 +1,22 @@
+Page 05/??
+-------------------------------------------------------------------------------
+Great! Now we can navigate around the filesystem, see the contents of any
+directory, and create new directories.
+
+But how can we read files? There are several utilities that we can use to read
+files. The quickest one is cat(1). The cat utility will simply blast the
+contents of the file(s) you provide as arguments to the terminal, even if the
+file(s) are too big to fit on the terminal. This kind of output is called
+stdout. If you do not give any files to cat, it will sit and wait for you to
+type stuff into the terminal. You can just press CTRL+c to quit the program in
+that case.
+
+Try it yourself: I have a short text file in my HOME directory. You can read it
+by typing "cat /home/callab5/hello.txt".
+
+
+
+
+
+
+Press n for next page; p for previous page; q to quit

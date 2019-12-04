@@ -1,0 +1,22 @@
+Page 07/??
+-------------------------------------------------------------------------------
+OK, so now we can read files. But you probably also want to write files. There
+are some handy programs for that too.
+
+Text editors in the Unix world tend to be a very personal decision. And there
+is no shame in using an "easy" editor. I will list some editors that are
+available on this system in the next few slides. I invite you to experiment
+with all of them and choose the one that works best for you.
+
+
+
+
+
+
+
+
+
+
+
+
+Press n for next page; p for previous page; q to quit

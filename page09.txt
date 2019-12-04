@@ -1,0 +1,22 @@
+Page 09/??
+-------------------------------------------------------------------------------
+The next editor is Emacs. vi and Emacs are the two main Unix text editors.
+Emacs is a non-modal editor, meaning that you can type text and issue commands
+at the same time. Emacs is an incredibly extensible editor, meaning that you
+can write your own extensions for Emacs to increase its functionality. The old
+joke is that "Emacs is a great operating system without a good text editor"
+because there are extensions to do just about everything. It is a good bet that
+any Unix machine will have Emacs on it, but it is not a required program like
+vi is, so you may occasionally find a Unix machine without Emacs.
+
+Like vi (or any text editor), you can invoke Emacs by itself as "emacs" which
+will give you a blank new document or invoke Emacs with a file argument to open
+that file for editing.
+
+To quit Emacs, press CTRL-x followed by CTRL-c.
+In Unix parlance, CTRL is abbreviated as ^. So another way to write the quit
+command is ^X^C (the letters are capitalized even though you don't use the
+Shift key, it's just the convention).
+
+
+Press n for next page; p for previous page; q to quit

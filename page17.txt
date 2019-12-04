@@ -1,0 +1,22 @@
+Page 17/??
+-------------------------------------------------------------------------------
+You will be writing C code for this course. This means using a C compiler. The
+C compiler on this machine is cc(1), and it is the clang compiler from the LLVM
+project. It is a standard C compiler that will do everything you need it to.
+Clang is one of the industry standard C/C++ compilers; Apple, Android, and
+Microsoft all use it to compile their code. You should too.
+
+The basic invocation of the C compiler in this course, for example assuming you
+have a C source code file named hw1.c, is as follows:
+
+cc -O0 -pipe -g -o hw1 hw1.c
+
+Don't worry if you don't understand what all the flags mean just yet. There is
+a more in-depth explanation here:
+https://github.com/ibara/libOpenBSD/blob/master/c-compiler-tutorial.md
+
+For now, we will just consider these flags to be the standard compile flags for
+code we write in this course.
+
+
+Press n for next page; p for previous page; q to quit

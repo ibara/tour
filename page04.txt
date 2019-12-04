@@ -1,0 +1,22 @@
+Page 04/??
+-------------------------------------------------------------------------------
+Another very useful command is ls(1). The ls command will give you a listing of
+all the files and directories in the current working directory.
+
+Try it yourself: quit this tour, type "ls", then return to the tour.
+
+You may have noticed that you didn't get anything back. That's because there's
+nothing in your HOME directory! We will add something now.
+
+For organizational purposes, you may want to create your own directories inside
+your HOME directory (and directories inside directories inside directories...).
+The command to create new directories is mkdir(1). The easy mnemonic is "make
+directory."
+
+Try it yourself: quit this tour, type "mkdir new", type "ls", type "cd new",
+type "cd", then return to this tour.
+
+
+
+
+Press n for next page; p for previous page; q to quit

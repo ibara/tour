@@ -1,0 +1,22 @@
+Page 12/??
+-------------------------------------------------------------------------------
+One of the true downsides of the terminal is that you only get one; so you can
+only really do one thing at a time. You could get multiple terminals by logging
+in multiple times, but it sure would be nice to be able to have multiple
+terminals with just one login.
+
+Fortunately, there is a program that will let us do exactly that. It is called
+tmux(1). Short for "terminal multiplexer," tmux will allow you to have an
+unlimited number of terminals in a single login, and provides an easy mechanism
+for switching between terminals.
+
+From now on, the first thing you should do when you log in to this machine (or
+any Unix machine) is run tmux. Do that now, quit the tutorial and run tmux. You
+will get a terminal with a green status bar at the bottom. Then come back here
+and we will talk about how to use tmux.
+
+
+
+
+
+Press n for next page; p for previous page; q to quit

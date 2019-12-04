@@ -1,0 +1,22 @@
+Page 08/??
+-------------------------------------------------------------------------------
+The first editor to discuss is vi(1). The vi editor is particularly special in
+Unix: it is the one visual editor that is guaranteed to be on any Unix system,
+as it is a required utility. This means that, at a minimum, you should be
+familiar with the basics of vi. Because you can always be certain that no
+matter where you are, you have it available to you. I use vi as my primary text
+editor. When you get really good at it, you will be able to work faster in vi
+than any other text editor, but it does have a huge learning curve.
+
+vi is what is called a modal editor. This means that you can either enter text
+or issue commands (like moving the cursor around, deleting text, searching),
+but not both at the same time.
+
+The vi program can be invoked by itself as "vi" in which case you will get a
+blank new document. Or you can give it a file argument, in which case vi will
+open that file for editing.
+
+To quit vi, press the <ESC> key. Then type :q! and press <Enter>.
+By the way, vi is pronounced as its two letters: v i. Not vee or vie.
+
+Press n for next page; p for previous page; q to quit

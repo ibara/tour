@@ -1,0 +1,22 @@
+Page 10/??
+-------------------------------------------------------------------------------
+The last of the common Unix editors is nano. Nano is considered an "easy"
+editor, but don't let that stop you from using it. Like Emacs, nano is a
+non-modal editor. Unlike Emacs, it is not extensible.
+
+Nano helpfully keeps a list of its commands at the bottom of the screen so that
+you do not have to remember what key commands do what (this need to remember is
+often cited as a major pain point for both vi and Emacs).
+
+Nano is the least likely of the three editors to be on any random Unix system,
+but it is quite popular, so chances are good it will be available.
+
+
+
+
+There are literally thousands of text editors, but these are the three most
+popular. You should choose one of these three to learn.
+
+
+
+Press n for next page; p for previous page; q to quit

@@ -1,0 +1,22 @@
+Page 03/??
+-------------------------------------------------------------------------------
+You can change the current working directory with the cd command. When you
+change the current working directory, the shell prompt will update to remind
+you where you are.
+
+The cd command also has a few special options. If you type "cd" all by itself,
+then you will return to your HOME directory. If you type "cd -" then you will
+return to the directory you were most previously in. So you can use "cd -" over
+and over to quickly move back and forth between two directories.
+
+Try it yourself: quit this tour, type "cd /home" and notice that your shell
+prompt has now changed. Then type "cd" to return to your HOME directory, then
+come back to this tour to continue.
+
+
+
+
+
+
+
+Press n for next page; p for previous page; q to quit
