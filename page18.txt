@@ -1,0 +1,22 @@
+Page 18/20
+-------------------------------------------------------------------------------
+The last thing we need for now is how to get more help or information on a
+program (and, as you will later see, many other things on the system). The
+command for that is man(1), short for manual. You may have noticed that I have
+been introducing many commands with (1) at the end of them. That is called
+manual page notation; it is telling you how to get more information on
+something should you want or need it.
+
+You invoke man with man, followed by the number in the parentheses, followed by
+the name of the thing you want to get more information on. For example, to get
+more information on man itself, noting that I introduced it as man(1), you
+would type "man 1 man".
+
+You can do that for any of the commands you have seen me introduce with manual
+page notation: vi(1), ls(1), tmux(1), ksh(1), cat(1), mkdir(1), less(1), mv(1),
+cp(1), rm(1), bash(1).
+
+Behind the scenes, man invokes less to read the material, so you navigate and
+quit man the same way you navigate and quit less.
+
+Press n for next page; p for previous page; q to quit

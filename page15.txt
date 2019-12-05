@@ -1,4 +1,4 @@
-Page 15/??
+Page 15/20
 -------------------------------------------------------------------------------
 If tmux is running and you are finished working, you can press ^B d to detach
 tmux from the terminal (you can also just close the terminal window, that will

@@ -1,4 +1,4 @@
-Page 05/??
+Page 05/20
 -------------------------------------------------------------------------------
 Great! Now we can navigate around the filesystem, see the contents of any
 directory, and create new directories.
@@ -8,7 +8,7 @@ files. The quickest one is cat(1). The cat utility will simply blast the
 contents of the file(s) you provide as arguments to the terminal, even if the
 file(s) are too big to fit on the terminal. This kind of output is called
 stdout. If you do not give any files to cat, it will sit and wait for you to
-type stuff into the terminal. You can just press CTRL+c to quit the program in
+type stuff into the terminal. You can just press CTRL-c to quit the program in
 that case.
 
 Try it yourself: I have a short text file in my HOME directory. You can read it

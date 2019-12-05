@@ -45,8 +45,8 @@ main(int argc, char *argv[])
 		ch = getch();
 		switch (ch) {
 		case 'n':
-			if (++p > 11)
-				p = 11;
+			if (++p > 20)
+				p = 20;
 			break;
 		case 'p':
 			if (--p < 1)

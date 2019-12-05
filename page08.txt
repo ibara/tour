@@ -1,4 +1,4 @@
-Page 08/??
+Page 08/20
 -------------------------------------------------------------------------------
 The first editor to discuss is vi(1). The vi editor is particularly special in
 Unix: it is the one visual editor that is guaranteed to be on any Unix system,
@@ -17,6 +17,6 @@ blank new document. Or you can give it a file argument, in which case vi will
 open that file for editing.
 
 To quit vi, press the <ESC> key. Then type :q! and press <Enter>.
-By the way, vi is pronounced as its two letters: v i. Not vee or vie.
+By the way, vi is pronounced as its two letters: v i. Not vee or vie or six.
 
 Press n for next page; p for previous page; q to quit

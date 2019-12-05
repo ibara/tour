@@ -1,4 +1,4 @@
-Page 03/??
+Page 03/20
 -------------------------------------------------------------------------------
 You can change the current working directory with the cd command. When you
 change the current working directory, the shell prompt will update to remind

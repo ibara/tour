@@ -1,0 +1,22 @@
+Page 19/20
+-------------------------------------------------------------------------------
+With just these commands, you are able to:
+1. Navigate around the filesystem
+2. List directory contents
+3. Read files
+4. Write files
+5. Copy files
+6. Rename files and directories
+7. Delete files and directories
+8. Create new programs
+9. Run new programs
+10. Get help to extend your knowledge
+
+There are lots of other programs available on this machine. Try running
+"ls /bin" and "ls /usr/bin" and "ls /usr/local/bin" to see all of them. Try
+running "man 1 <program>" on any programs you find interesting to see what they
+do. Try running them to see what happens! Experiment!
+
+
+
+Press n for next page; p for previous page; q to quit

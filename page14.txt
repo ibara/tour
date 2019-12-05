@@ -1,4 +1,4 @@
-Page 14/??
+Page 14/20
 -------------------------------------------------------------------------------
 Tmux uses the window/pane metaphor for understanding multiple terminals. Every
 time we press ^B c, we create a new window with a single pane. We can also
@@ -6,7 +6,7 @@ create new panes within a window. You can create horizontally split panes and
 vertically split panes and any combniation of the two to suit your preferences.
 
 Panes are infinitely more useful if you have a large terminal window, so
-maximizing the window is recommended.
+maximizing the terminal window is recommended.
 
 To create a vertically split pane, press ^B % and to create a horizontally
 split pane, press ^B ". To cycle through panes, press ^B o. So remember: to

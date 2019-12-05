@@ -1,4 +1,4 @@
-Page 02/??
+Page 02/20
 -------------------------------------------------------------------------------
 The shell is your interface to the world. The shell is both an interactive
 environment and a programming language, though we will use it for its

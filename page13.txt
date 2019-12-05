@@ -1,4 +1,4 @@
-Page 13/??
+Page 13/20
 -------------------------------------------------------------------------------
 Tmux gives us some really useful benefits over using just a plain terminal.
 First, we can now have multiple terminals running in a single login. Second,
@@ -8,12 +8,12 @@ lose all your work, If you accidentally (or intentionally) disconnect from tmux
 then tmux will actually keep running in the background and wait for you to come
 back, and everything will be just the way you left it.
 
-The size of your terminal window in a way will dictate how you use tmux, in a
-way. If you are using the standard terminal size of 80 characters wide by 24
-characters tall, then you are mostly restricted to just making multiple
-terminal windows. If you have a very large terminal size (for example, you
-run a maximized terminal window) then you can make new terminal windows and do
-what tmux calls split pane, which allows you to see multiple terminals at once.
+The size of your terminal window will dictate how you use tmux, in a way. If
+you are using the standard terminal size of 80 characters wide by 24 characters
+tall, then you are mostly restricted to just making multiple terminal windows.
+If you have a very large terminal size (for example, you run a maximized
+terminal window) then you can make new terminal windows and do what tmux calls
+split pane, which allows you to see multiple terminals at once.
 
 The magic keystroke to talk to tmux is ^B. We can create new terminal windows
 with ^B c. You will see a new entry in the status bar and switch to the new

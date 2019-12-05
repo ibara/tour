@@ -1,4 +1,4 @@
-Page 10/??
+Page 10/20
 -------------------------------------------------------------------------------
 The last of the common Unix editors is nano. Nano is considered an "easy"
 editor, but don't let that stop you from using it. Like Emacs, nano is a

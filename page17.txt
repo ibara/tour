@@ -1,4 +1,4 @@
-Page 17/??
+Page 17/20
 -------------------------------------------------------------------------------
 You will be writing C code for this course. This means using a C compiler. The
 C compiler on this machine is cc(1), and it is the clang compiler from the LLVM
@@ -15,8 +15,8 @@ Don't worry if you don't understand what all the flags mean just yet. There is
 a more in-depth explanation here:
 https://github.com/ibara/libOpenBSD/blob/master/c-compiler-tutorial.md
 
-For now, we will just consider these flags to be the standard compile flags for
-code we write in this course.
+To invoke the newly created program, run "./hw1".
+
 
 
 Press n for next page; p for previous page; q to quit

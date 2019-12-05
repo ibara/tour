@@ -1,4 +1,4 @@
-Page 04/??
+Page 04/20
 -------------------------------------------------------------------------------
 Another very useful command is ls(1). The ls command will give you a listing of
 all the files and directories in the current working directory.
