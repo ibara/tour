@@ -36,21 +36,27 @@ main(int argc, char *argv[])
 	keypad(stdscr, TRUE);
 	(void) nonl();
 	(void) cbreak();
+	(void) noecho();
 
 	while (!done) {
 		snprintf(page, sizeof page,
 			 "/usr/local/share/tour/page%02d.txt", p);
 		printpage(page);
 
+again:
 		ch = getch();
 		switch (ch) {
 		case 'n':
-			if (++p > 20)
+			if (++p > 20) {
 				p = 20;
+				goto again;
+			}
 			break;
 		case 'p':
-			if (--p < 1)
+			if (--p < 1) {
 				p = 1;
+				goto again;
+			}
 			break;
 		case 'q':
 			endwin();
