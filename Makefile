@@ -1,5 +1,14 @@
-all:
-	${CC} ${CFLAGS} ${LDFLAGS} -static -o tour tour.c -lcurses
+# tour Makefile
+
+CC ?=		cc
+CFLAGS ?=	-O2 -pipe
+
+PREFIX ?=	/usr/local
+
+OBJS =	tour.o
+
+all: ${OBJS}
+	${CC} ${LDFLAGS} -static -o tour ${OBJS} -lcurses
 
 install:
 	install -d -m 755 ${PREFIX}/share/tour
@@ -10,4 +19,4 @@ test:
 	@echo No tests.
 
 clean:
-	rm -f tour tour.core
+	rm -f ${OBJS} tour tour.core
