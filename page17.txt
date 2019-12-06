@@ -3,7 +3,7 @@ Page 17/20
 You will be writing C code for this course. This means using a C compiler. The
 C compiler on this machine is cc(1), and it is the clang compiler from the LLVM
 project. It is a standard C compiler that will do everything you need it to.
-Clang is one of the industry standard C/C++ compilers; Apple, Android, and
+Clang is one of the industry standard C/C++ compilers; Apple, Google, and
 Microsoft all use it to compile their code. You should too.
 
 The basic invocation of the C compiler in this course, for example assuming you

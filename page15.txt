@@ -7,7 +7,7 @@ and when you do, tmux will give you everything back just as you left it.
 
 If you have a detached tmux session, the command to get it back is "tmux a".
 
-Try it: press ^B d to detatch then "tmux a" and you should return right back
+Try it: press ^B d to detach then "tmux a" and you should return right back
 here.
 
 
