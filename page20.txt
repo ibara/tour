@@ -3,13 +3,13 @@ Page 20/20
 Homework (very short!):
 1. Create a new file in the text editor of your choice
 2. Inside that file, write your name and RCSID
-3. Save the file to yourname-yourRCSID.txt
-4. Read a manual page for one program not covered in this tour.
-5. Run that program and copy the output to a new file named yourRCSID-prog.txt
+3. Save the file to yourRCSID-yourEditor.txt (e.g., callab5-vi.txt)
+4. Read a manual page for one program not covered in this tour
+5. Run that program and copy the output to a new file named
+   yourRCSID-yourProgram.txt (e.g., callab5-pwd.txt)
    (Hint: you might want to look up shell pipes and the tee(1) program)
 6. Move the two files you have now to the /home/callab5 directory
    (Note: you may no longer be able to see them once you do this!)
-
 
 
 

@@ -17,6 +17,6 @@ To quit Emacs, press CTRL-x followed by CTRL-c.
 In Unix parlance, CTRL is abbreviated as ^. So another way to write the quit
 command is ^X^C (the letters are capitalized even though you don't use the
 Shift key, it's just the convention).
-
+By the way, OpenBSD has a mini version of Emacs called mg(1).
 
 Press n for next page; p for previous page; q to quit

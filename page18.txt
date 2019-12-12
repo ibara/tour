@@ -14,7 +14,7 @@ would type "man 1 man".
 
 You can do that for any of the commands you have seen me introduce with manual
 page notation: vi(1), ls(1), tmux(1), ksh(1), cat(1), mkdir(1), less(1), mv(1),
-cp(1), rm(1), bash(1).
+cp(1), rm(1), bash(1), mg(1).
 
 Behind the scenes, man invokes less to read the material, so you navigate and
 quit man the same way you navigate and quit less.

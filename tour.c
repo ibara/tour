@@ -18,7 +18,6 @@
 #include <err.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
 #include <unistd.h>
 
 static void
@@ -48,11 +47,19 @@ main(int argc, char *argv[])
 	char page[33];
 	int ch, done = 0, p = 1;
 
+	if (pledge("stdio rpath tty unveil", NULL) == -1)
+		err(1, "pledge");
+
 	(void) initscr();
 	keypad(stdscr, TRUE);
 	(void) nonl();
 	(void) cbreak();
 	(void) noecho();
+
+	if (unveil("/usr/local/share/tour", "r") == -1)
+		err(1, "unveil");
+	if (pledge("stdio rpath tty", NULL) == -1)
+		err(1, "pledge");
 
 	while (!done) {
 		snprintf(page, sizeof page,

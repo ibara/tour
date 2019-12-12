@@ -8,7 +8,7 @@ PREFIX ?=	/usr/local
 OBJS =	tour.o
 
 all: ${OBJS}
-	${CC} ${LDFLAGS} -static -o tour ${OBJS} -lcurses
+	${CC} ${LDFLAGS} -o tour ${OBJS} -lcurses
 
 install:
 	install -d -m 755 ${PREFIX}/share/tour
