@@ -1,4 +1,4 @@
-Page 13/20
+Page 13/21
 -------------------------------------------------------------------------------
 Tmux gives us some really useful benefits over using just a plain terminal.
 First, we can now have multiple terminals running in a single login. Second,

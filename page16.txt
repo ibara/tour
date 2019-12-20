@@ -1,4 +1,4 @@
-Page 16/20
+Page 16/21
 -------------------------------------------------------------------------------
 The one caveat to remember about tmux is, if you are an Emacs user, Emacs also
 uses ^B for some commands. The way to pass a ^B to programs running inside tmux

@@ -1,4 +1,4 @@
-Page 19/20
+Page 19/21
 -------------------------------------------------------------------------------
 With just these commands, you are able to:
 1. Navigate around the filesystem

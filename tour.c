@@ -70,8 +70,8 @@ again:
 		ch = getch();
 		switch (ch) {
 		case 'n':
-			if (++p > 20) {
-				p = 20;
+			if (++p > 21) {
+				p = 21;
 				goto again;
 			}
 			break;

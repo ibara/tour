@@ -1,4 +1,4 @@
-Page 18/20
+Page 18/21
 -------------------------------------------------------------------------------
 The last thing we need for now is how to get more help or information on a
 program (and, as you will later see, many other things on the system). The

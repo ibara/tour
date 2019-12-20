@@ -1,4 +1,4 @@
-Page 17/20
+Page 17/21
 -------------------------------------------------------------------------------
 You will be writing C code for this course. This means using a C compiler. The
 C compiler on this machine is cc(1), and it is the clang compiler from the LLVM

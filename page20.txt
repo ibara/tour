@@ -1,22 +1,22 @@
-Page 20/20
+Page 20/21
 -------------------------------------------------------------------------------
-Homework (very short!):
-1. Create a new file in the text editor of your choice
-2. Inside that file, write your name and RCSID
-3. Save the file to yourRCSID-yourEditor.txt (e.g., callab5-vi.txt)
-4. Read a manual page for one program not covered in this tour
-5. Run that program and copy the output to a new file named
-   yourRCSID-yourProgram.txt (e.g., callab5-pwd.txt)
-   (Hint: you might want to look up shell pipes and the tee(1) program)
-6. Move the two files you have now to the /home/callab5 directory
-   (Note: you may no longer be able to see them once you do this!)
-
-
-
-
-
-
-
-
+A few final things:
+* We have a Slack channel. It is at
+  https://join.slack.com/t/itws-infosec-s20/signup
+  It is imperative you sign up for this Slack!
+* Some people prefer the GNU utilities. If that's you, you can prefix many
+  utilities with the letter 'g' to use the GNU version. You can also use shell
+  aliases in your .profile to default to any GNU utilities you prefer.
+  For example, if you prefer the GNU version of ls, you can use gls(1) or you
+  can set "alias ls=gls" in your .profile to default to the GNU version.
+* You have a quota of 100 MB on this machine. That should be way more than
+  enough. Use this server to do your coding homeworks (at a minimum).
+* There are lots of utilities on this machine, and you are free to use them.
+* If you want to use a different shell than ksh(1), chsh(1) is the command
+  you're looking for. I personally use ksh but plenty of people use bash(1) or
+  zsh(1), both of which are available.
+* If you need help setting up your environment, let me know. Your shell should
+  make your life easier. I prefer a minimalist approach but you don't have to!
+  I can help you set up whatever works for you.
 
 Press n for next page; p for previous page; q to quit
