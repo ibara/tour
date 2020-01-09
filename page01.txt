@@ -17,6 +17,6 @@ In this tour, I will encase commands in "quotes" but remove the quotes when you
 try the commands yourselves.
 
 OK, let's start by pressing n to go to the next page.
-By the way, there is a (very short!) homework assignment at the end of this.
+
 
 Press n for next page; p for previous page; q to quit

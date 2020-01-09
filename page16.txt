@@ -4,7 +4,7 @@ The one caveat to remember about tmux is, if you are an Emacs user, Emacs also
 uses ^B for some commands. The way to pass a ^B to programs running inside tmux
 is to press ^B twice: the first ^B activates talking to tmux, the second ^B
 issues the special tmux command "send ^B to the program." This works for any
-program that takes ^B as input (which, fortuantely, is not many programs).
+program that takes ^B as input.
 
 
 
